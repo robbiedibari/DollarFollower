@@ -1,0 +1,2 @@
+# DollarFollower
+ShellHack Group Project
